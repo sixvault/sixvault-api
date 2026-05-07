@@ -1,3 +1,20 @@
+<div align="center">
+  <table border="1">
+    <tr>
+      <td align="center" style="padding: 20px;">
+        <h3>📢 Domain & Email Migration Notice</h3>
+        <p>From <b>June 7th, 2026</b>, Sixvault will transition to new domains as <code>sixvault.xyz</code> will not be renewed:</p>
+        <p>🌐 <b>Website:</b> <a href="https://sixvault.faizath.com">sixvault.faizath.com</a> (formerly <i>sixvault.xyz</i>)<br>
+        ⚙️ <b>API:</b> <a href="https://sixvault-api.faizath.com">sixvault-api.faizath.com</a> (formerly <i>api.sixvault.xyz</i>)<br>
+        📧 <b>Email:</b> <a href="mailto:contact@sixvault.faizath.com">contact@sixvault.faizath.com</a> (formerly <i>contact@sixvault.xyz</i>)<br>
+        🛰️ <b>CDN:</b> <a>sixvault-cdn.faizath.com</a> (formerly <i>cdn.sixvault.xyz</i>)<br>
+        📈 <b>Status Pages:</b> <a href="https://status.faizath.com/status/sixvault">https://status.faizath.com/status/sixvault</a> (formerly <i>status.sixvault.xyz</i>)
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 # 🔐 SixVault
 
 <div align="center">
@@ -83,8 +100,8 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/sixvault/sixvault-core.git
-cd sixvault-core
+git clone https://github.com/sixvault/sixvault-api.git
+cd sixvault-api
 ```
 
 2. **Install dependencies**
@@ -249,7 +266,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-**Sixvault Developers** - [dev@sixvault.xyz](mailto:dev@sixvault.xyz)
+**Sixvault Developers** - [dev@sixvault.faizath.com](mailto:dev@sixvault.faizath.com)
 
 ## 🙏 Acknowledgments
 
